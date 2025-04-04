@@ -22,3 +22,4 @@ This project simulates an automated drilling station that performs drilling oper
 
 > 📌 Ladder logic was developed to model this process precisely.
 
+![Drilling Station Setup](images/drilling_station_setup.png)
