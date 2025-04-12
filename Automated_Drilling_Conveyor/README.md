@@ -5,6 +5,7 @@
 This project simulates an automated drilling station that performs drilling operations on workpieces transported by a conveyor belt. It demonstrates key elements of industrial automation including safety interlocks, actuator sequencing, and fault handling using PLC Ladder Logic and HMI.
 
 ---
+📹 [Watch Demo](https://drive.google.com/file/d/1WxfzdE_2e0mCl525VYx_dJia_ioOth0S/view?usp=sharing)
 
 ## ⚙️ System Description
 
