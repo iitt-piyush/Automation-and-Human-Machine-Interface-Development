@@ -18,7 +18,8 @@ The purpose is to replicate a realistic industrial environment and demonstrate c
 ## 📌 Features
 
 - 🧠 **PLC Ladder Logic**
-  - Written using industry-standard tools (e.g., Siemens TIA Portal, Allen-Bradley Studio 5000, or open tools like LDmicro)
+- Controllers→SIMATIC S7-1500→CPU 1512C-1 PN→6ES7 512-1CK00-0AB0
+  - Written using industry-standard **Siemens TIA Portal V15**
   - Includes Start/Stop logic, timers, counters, interlocks, etc.
 
 - 🖥️ **Human-Machine Interface (HMI)**
